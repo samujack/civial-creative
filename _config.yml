@@ -1,8 +1,8 @@
 # Site settings
 title: CIVIAL SA
 email: info@civial.com.ar
-description: > # this means to ignore newlines until "baseurl:" 
-Constructora especializada en obras viales. Realizamos trabajos de movimientos de suelos, venta de mezcla asfáltica, pavimentos de hormigón y de concreto asfáltico. Contamos con diversos equipos para su alquiler (motoniveladoras, excavadoras, cargadoras, topadoras, etc.). Desde 1979 hemos realizado diversas obras públicas y privadas el país, principalmente en los munipios de Zárate, Campana, Escobar y Pilar.
+description: > Constructora especializada en obras viales. Realizamos trabajos de movimientos de suelos, venta de mezcla asfáltica, pavimentos de hormigón y de concreto asfáltico. Contamos con diversos equipos para su alquiler (motoniveladoras, excavadoras, cargadoras, topadoras, etc.). Desde 1979 hemos realizado diversas obras públicas y privadas el país, principalmente en los munipios de Zárate, Campana, Escobar y Pilar.
+# this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
