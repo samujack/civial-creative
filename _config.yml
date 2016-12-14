@@ -9,7 +9,7 @@ para su alquiler (motoniveladoras, excavadoras, cargadoras, topadoras, etc.). De
 diversas obras públicas y privadas el país, principalmente en los munipios de Zárate, Campana, Escobar y 
 Pilar.
 
-baseurl: "/civial" # the subpath of your site, e.g. /blog/
+baseurl: "/civial/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
